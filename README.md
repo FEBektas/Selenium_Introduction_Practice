@@ -36,7 +36,11 @@ Feel free to modify and adapt the files based on your specific requirements.
 
 **04/10/2024 -> selenium_basics.py** - contains several basic sytanx usage and automated scripts. 
 - Finding the HTML element by their specific selector.
-- Search the intended content for the specific site on multiple browsers. 
+- Search the intended content for the specific site on multiple browsers.
+  
+**14/10/2024 -> navigating_through_pages.py** - contains basic sytanx usage and automated scripts.
+- Finding the HTML element by their specific selector.
+- Search the "pycon" text in the python.org website. 
 
 # **Contributing:**
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
