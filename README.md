@@ -40,7 +40,12 @@ Feel free to modify and adapt the files based on your specific requirements.
   
 **14/10/2024 -> navigating_through_pages.py** - contains basic sytanx usage and automated scripts.
 - Finding the HTML element by their specific selector.
-- Search the "pycon" text in the python.org website. 
+- Search the "pycon" text in the python.org website.
+
+**14/10/2024 -> filling_forms.py** - contains basic sytanx usage and automated scripts.
+-Finds the input fields by their HTML element.
+-Fills the input fields with predefined strings and at the end taps the "submit" button.
+
 
 # **Contributing:**
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
