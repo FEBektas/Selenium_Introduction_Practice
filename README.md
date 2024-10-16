@@ -42,9 +42,14 @@ Feel free to modify and adapt the files based on your specific requirements.
 - Finding the HTML element by their specific selector.
 - Search the "pycon" text in the python.org website.
 
-**14/10/2024 -> filling_forms.py** - contains basic sytanx usage and automated scripts.
+**15/10/2024 -> filling_forms.py** - contains basic sytanx usage and automated scripts.
 -Finds the input fields by their HTML element.
 -Fills the input fields with predefined strings and at the end taps the "submit" button.
+
+**16/10/2024 -> filling_forms2.py** - contains basic sytanx usage and automated scripts.
+-Finds the input fields by their HTML element.
+-Fills the input fields with predefined strings and at the end taps the "submit" button.
+-Finds the captcha text, transform the text into integers, after adds the 2 integers and fill the result into the required captcha.
 
 
 # **Contributing:**
