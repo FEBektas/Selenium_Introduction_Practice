@@ -51,6 +51,9 @@ Feel free to modify and adapt the files based on your specific requirements.
 -Fills the input fields with predefined strings and at the end taps the "submit" button.
 -Finds the captcha text, transform the text into integers, after adds the 2 integers and fill the result into the required captcha.
 
+**30/10/2024 -> elemets_by_id.py** - contains information about how to find the elements in the webpage by they're intendend Tag's.
+-Finds the input field by their HTML element.
+-Clears the username and password fields if there is something in the fields, and after sends the correct username and password to sign-in on the website.
 
 # **Contributing:**
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
