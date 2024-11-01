@@ -56,8 +56,12 @@ Finds the input field by their HTML element.
 -Clears the username and password fields if there is something in the fields, and then sends the correct username and password to sign in on the website.
 
 **31/10/2024 -> drop_down.py** - contains a script to search through a drop-down filter field and click on the intended element.
-Finds the drop-down field by the Xpath HTML element.
-clicks on the drop-down element and scrolls with the help of the arrow-down key for the second element in the drop-down.
+-Finds the drop-down field by the Xpath HTML element.
+-Clicks on the drop-down element and scrolls with the help of the arrow-down key for the second element in the drop-down.
+
+**1/11/2024 -> drag_and_drop_no_loops.py** - contains a script to perform a drag-and-drop action from and to given elements. 
+-Finds the source and target by the ID HTML element.
+-Finds the source element and drags it into the correct target.
 
 # **Contributing:**
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
