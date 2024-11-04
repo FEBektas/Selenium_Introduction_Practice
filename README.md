@@ -63,6 +63,9 @@ Finds the input field by their HTML element.
 -Finds the source and target by the ID HTML element.
 -Finds the source element and drags it into the correct target.
 
+**4/11/2024 -> challenge.py** - Script to print various web element content using Selenium framework with Python. 
+-Finds HTML elements and prints in the console a custom message that shows what the element is and if it has text or not.
+
 # **Contributing:**
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
 
