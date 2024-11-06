@@ -66,6 +66,9 @@ Finds the input field by their HTML element.
 **4/11/2024 -> challenge.py** - Script to print various web element content using Selenium framework with Python. 
 -Finds HTML elements and prints in the console a custom message that shows what the element is and if it has text or not.
 
+**5/11/2024 -> challenge.py** - Script to find an intended element and to filter it using Selenium framework with Python. 
+-Finds HTML element and by the help of the drop-down filters the page.
+
 # **Contributing:**
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
 
